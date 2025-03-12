@@ -8,7 +8,8 @@
 
 🔹 Apasionado por la tecnología y el desarrollo de software.  
 🔹 Especial interés en el desarrollo backend y aplicaciones móviles.  
-🔹 Siempre aprendiendo y mejorando mis habilidades.  
+🔹 Siempre aprendiendo y mejorando mis habilidades.
+🔹 Nivel de inglés: B2
 
 ---  
 

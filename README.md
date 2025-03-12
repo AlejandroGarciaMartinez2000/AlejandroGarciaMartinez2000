@@ -1,16 +1,31 @@
-## Hi there 👋
+# 💻 Alejandro Garcia Martinez  
 
-<!--
-**AlejandroGarciaMartinez2000/AlejandroGarciaMartinez2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! 👋 Soy **Alejandro Garcia Martinez**, un apasionado del desarrollo de software con 24 años de edad. Actualmente, estoy finalizando un **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**, solo me quedan las prácticas.  
 
-Here are some ideas to get you started:
+---  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí  
+
+🔹 Apasionado por la tecnología y el desarrollo de software.  
+🔹 Especial interés en el desarrollo backend y aplicaciones móviles.  
+🔹 Siempre aprendiendo y mejorando mis habilidades.  
+
+---  
+
+## 🛠️ Tecnologías y herramientas  
+
+- **Lenguajes:** Java
+- **Bases de datos:** MySQL, SQLite, Firebase  
+- **Frameworks:** Spring Boot, Flutter, React  
+- **Control de versiones:** Git y GitHub  
+
+---  
+
+## 📫 Contacto  
+
+📧 **Email:** alexgarciam@gmail.com 
+🔗 **LinkedIn:**     
+
+---  
+
+¡Gracias por visitar mi perfil! 🚀✨

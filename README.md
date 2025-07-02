@@ -1,22 +1,32 @@
-Hi there! 👋 I'm Alejandro Garcia Martinez, a passionate software developer, 24 years old. I'm currently finishing a Higher National Diploma in Cross-Platform Application Development (DAM) — just the internship left to complete.
+# 💻 Alejandro Garcia Martinez  
 
-🚀 About Me
-🔹 Passionate about technology and software development
-🔹 Special interest in backend development and mobile applications
-🔹 Always learning and improving my skills
-🔹 English level: B2
+Hi there! 👋 I'm **Alejandro Garcia Martinez**, a passionate software developer, 24 years old. I'm currently finishing a **Higher National Diploma in Cross-Platform Application Development (DAM)** — just the internship left to complete.  
 
-🛠️ Technologies & Tools
-Languages: Java
+---  
 
-Databases: MySQL, SQLite, Firebase
+## 🚀 About Me  
 
-Frameworks: Spring Boot, Flutter, React
+🔹 Passionate about technology and software development  
+🔹 Special interest in backend development and mobile applications  
+🔹 Always learning and improving my skills  
+🔹 English level: B2  
 
-Version Control: Git & GitHub
+---  
 
-📫 Contact
-📧 Email: alexgarciam@gmail.com
-🔗 LinkedIn:
+## 🛠️ Technologies & Tools  
+
+- **Languages:** Java  
+- **Databases:** MySQL, SQLite, Firebase  
+- **Frameworks:** Spring Boot, Flutter, React  
+- **Version Control:** Git & GitHub  
+
+---  
+
+## 📫 Contact  
+
+📧 **Email:** alexgarciam@gmail.com  
+🔗 **LinkedIn:**    
+
+---  
 
 Thanks for visiting my profile! 🚀✨

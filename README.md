@@ -29,9 +29,6 @@ Soy un desarrollador autodidacta, proactivo y apasionado por la tecnología, con
 
 ---
 
-⭐ _¡Gracias por visitar mi perfil!_
-
-
 ## 📫 Contacto
 
 - 📧 alexgarciam260@gmail.com  

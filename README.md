@@ -6,7 +6,7 @@ Soy un desarrollador en autodidacta, proactivo y apasionado por la tecnología, 
 
 ## 🚀 Tecnologías y herramientas
 
-- **Lenguajes:** Java, JavaScript, PHP, Kotlin, Python (básico)  
+- **Lenguajes:** Java, JavaScript, PHP, Kotlin, FoxPro, Python (básico)  
 - **Frontend:** HTML, CSS, JavaScript, React  
 - **Backend:** Java (Spring Boot), PHP (Symfony)  
 - **Bases de datos:** MySQL, PostgreSQL, SQLite, Firebase  

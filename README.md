@@ -27,7 +27,7 @@ Soy un desarrollador en autodidacta, proactivo y apasionado por la tecnología, 
 ## 📫 Contacto
 
 - 📧 alexgarciam260@gmail.com  
-- 💼 [LinkedIn (opcional)](https://linkedin.com/in/tu-usuario)
+- 💼 [LinkedIn]([https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/alejandro-garcía-martínez-48455232b/))
 
 ---
 

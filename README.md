@@ -1,32 +1,32 @@
-# 💻 Alejandro Garcia Martinez  
+# 👋 ¡Hola! Soy Alejandro García Martínez
 
-Hi there! 👋 I'm **Alejandro Garcia Martinez**, a passionate software developer, 24 years old. I'm currently finishing a **Higher National Diploma in Cross-Platform Application Development (DAM)** — just the internship left to complete.  
+Soy un desarrollador autodicdacta, proactivo y apasionado por la tecnología, con conocimientos en desarrollo de aplicaciones multiplataforma, bases de datos y herramientas modernas como Spring Boot, Flutter y React. Siempre en búsqueda de nuevos retos y oportunidades para seguir creciendo profesionalmente.
 
----  
+---
 
-## 🚀 About Me  
+## 🚀 Tecnologías y herramientas
 
-🔹 Passionate about technology and software development  
-🔹 Special interest in backend development and mobile applications  
-🔹 Always learning and improving my skills  
-🔹 English level: B2  
+- **Lenguajes:** Java, JavaScript, PHP, Kotlin, Python (básico)  
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Java (Spring Boot), PHP (Symfony)  
+- **Bases de datos:** MySQL, PostgreSQL, SQLite, Firebase  
+- **Frameworks:** Spring Boot, Flutter, Symfony  
+- **Control de versiones:** Git & GitHub  
+- **Otros:** Docker, REST APIs, Linux básico, GeneXus (7.5 y X Evo 3 – generación en FoxPro)
 
----  
+---
 
-## 🛠️ Technologies & Tools  
+## 📊 Estadísticas de GitHub
 
-- **Languages:** Java  
-- **Databases:** MySQL, SQLite, Firebase  
-- **Frameworks:** Spring Boot, Flutter, React  
-- **Version Control:** Git & GitHub  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroGarciaMartinez2000&layout=compact&theme=default)](https://github.com/AlejandroGarciaMartinez2000)
 
----  
+---
 
-## 📫 Contact  
+## 📫 Contacto
 
-📧 **Email:** alexgarciam@gmail.com  
-🔗 **LinkedIn:**    
+- 📧 alexgarciam260@gmail.com  
+- 💼 [LinkedIn (opcional)](https://linkedin.com/in/tu-usuario)
 
----  
+---
 
-Thanks for visiting my profile! 🚀✨
+⭐ _¡Gracias por visitar mi perfil!_

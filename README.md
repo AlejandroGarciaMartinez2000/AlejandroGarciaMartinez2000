@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Alejandro García Martínez
 
-Soy un desarrollador autodicdacta, proactivo y apasionado por la tecnología, con conocimientos en desarrollo de aplicaciones multiplataforma, bases de datos y herramientas modernas como Spring Boot, Flutter y React. Siempre en búsqueda de nuevos retos y oportunidades para seguir creciendo profesionalmente.
+Soy un desarrollador autodidacta, proactivo y apasionado por la tecnología, con conocimientos en desarrollo de aplicaciones multiplataforma, bases de datos y herramientas modernas como Spring Boot, Flutter y React. Siempre en búsqueda de nuevos retos y oportunidades para seguir creciendo profesionalmente.
 
 ---
 
@@ -21,6 +21,16 @@ Soy un desarrollador autodicdacta, proactivo y apasionado por la tecnología, co
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroGarciaMartinez2000&layout=compact&theme=default)](https://github.com/AlejandroGarciaMartinez2000)
 
 ---
+
+## 📫 Contacto
+
+- 📧 alexgarciam260@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/alejandro-garcía-martínez-48455232b/)
+
+---
+
+⭐ _¡Gracias por visitar mi perfil!_
+
 
 ## 📫 Contacto
 
